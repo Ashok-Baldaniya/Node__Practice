@@ -1,0 +1,10 @@
+task -> template weather
+
+npm init -y
+npm i express hbs
+
+npm i dotenv
+
+
+package.json -> "start":"node src/app.js"
+then npm start

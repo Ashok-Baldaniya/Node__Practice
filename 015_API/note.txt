@@ -1,0 +1,6 @@
+npm i mongoose express
+npm inint -y
+
+
+
+product table ma api through data

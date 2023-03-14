@@ -1,0 +1,10 @@
+npm init -y
+npm i yargs
+
+CRUD - Create  Read  Update  Delete
+Here we use:
+-> Create :addfile
+-> Read   :view
+-> Update :If duplicate find then -nothing(exist)
+          :If duplicate not find then -addfile
+-> Delete :removedata          

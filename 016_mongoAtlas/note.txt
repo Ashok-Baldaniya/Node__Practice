@@ -1,0 +1,10 @@
+task: with out id pass crud operation
+
+
+npm init -y
+npm i mongoose express
+npm i bcryptjs
+npm i jsonwebtoken
+
+autorisation -> access 
+authentication -> login purpose

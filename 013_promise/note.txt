@@ -1,0 +1,6 @@
+Callback hell-->
+
+    Callback hell in Node. js is the situation in which 
+we have complex nested callbacks. In this, each callback takes 
+arguments that have been obtained as a result of previous callbacks. This kind
+of callback structure leads to lesser code readability and maintainability.
